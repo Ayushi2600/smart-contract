@@ -118,4 +118,9 @@ ii) The contract checks if Alice’s "favorites" account exists.
 iii) If the account doesn't exist, it creates a new one.
 iv) The contract stores her data on-chain.
 v) Next time, Alice can update her favorites without creating a new account.
+------------------------------------------------------------------------------------------------------------------------------------------------
+## Complie the program 
+    anchor build
+## Deploy the program
+    anchor deploy
     
